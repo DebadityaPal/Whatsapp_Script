@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException 
 import time
 
-driver = webdriver.Chrome(executable_path=r'C:\Users\debad\Downloads\chromedriver.exe')
+driver = webdriver.Chrome(executable_path=r'C:\...\chromedriver.exe')
 driver.get('https://web.whatsapp.com/')
 
 all_names = ['Parth IIITM','asdasd','H3LL0FR13ND']
