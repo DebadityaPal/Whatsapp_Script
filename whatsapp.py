@@ -9,7 +9,7 @@ import time
 driver = webdriver.Chrome(executable_path=r'C:\...\chromedriver.exe')
 driver.get('https://web.whatsapp.com/')
 
-all_names = ['Parth IIITM','asdasd','H3LL0FR13ND']
+all_names = ['contact1','contact2']
 imgpath =  r'C:\...\image'
 file1path= r'C:\...\file1'
 file2path= r'C:\...\file2'
